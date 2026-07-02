@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls \"C:\\\\Users\\\\User\\\\AppData\\\\Roaming\\\\Claude\\\\local-agent-mode-sessions\\\\skills-plugin\\\\178f82a5-a2a0-4d4c-91d6-0b41ddca33cb\\\\8d9d8f31-2593-4aaf-b61a-b7eb274c12fe\\\\skills\\\\xlsx\" 2>&1)",
+      "Bash(where.exe extract-text *)",
+      "Read(//c/Users/User/AppData/Roaming/Claude/**)",
+      "Bash(mkdir -p \"C:\\\\Users\\\\User\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Users-User-Desktop--------------dibs2\\\\e7f287e2-8b47-43e8-9bdf-5452e6e7dbbf\\\\scratchpad\\\\xlsx_extract\")",
+      "Bash(unzip -o \"C:\\\\Users\\\\User\\\\Desktop\\\\황치민\\\\클로드\\\\개발폴더\\\\dibs2\\\\selectedData\\(SAMPLE\\) \\(1\\).xlsx\" -d extracted)"
+    ]
+  }
+}
